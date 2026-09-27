@@ -46,7 +46,7 @@ const react= ()=>{
         <Button variant='outline' className="bg-gray-100"
     onClick={react}
     >
-  <FaHeart   ref={loveIcon}
+  <FaHeart    ref={loveIcon}
     />
 </Button>
 </CardAction>
